@@ -1,0 +1,6 @@
+{
+  "name": "Redline Overdrive - Mini Racing",
+  "description": "High-octane anime cel-shaded endless mini racing game featuring modern sports cars, Beach, Mountain, and City circuits, comic speedlines, and 60 FPS responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
